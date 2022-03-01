@@ -5,7 +5,7 @@ CRUD Customer application with different acessability, depending on the logged i
 Users:
 susan(ADMIN)
 mary(MANAGER)
-john(employee)
+john(EMPLOYEE)
 
 Password:
 fun123
